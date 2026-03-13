@@ -1,0 +1,3 @@
+Ensemble Type,Loss,Stable0,Stable1,Gain,PercLoss,PercGain,SpeciesRangeChange,CurrentRangeSize,FutureRangeSize.NoDisp,FutureRangeSize.FullDisp
+ca,6545,29455,3806,3918,63.231,37.851,-25.379,10351,3806,7724
+em,6482,35721,187,1334,97.196,20.003,-77.193,6669,187,1521

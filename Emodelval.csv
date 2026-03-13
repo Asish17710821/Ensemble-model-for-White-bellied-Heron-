@@ -1,0 +1,13 @@
+"","full.name","merged.by.PA","merged.by.run","merged.by.algo","filtered.by","algo","metric.eval","cutoff","sensitivity","specificity","calibration","validation","evaluation"
+"1","Ardea..insignis_EMmeanByTSS_mergedData_mergedRun_GLM","mergedData","mergedRun","GLM","TSS","EMmean","TSS",634,78.676,84.47,0.631,NA,NA
+"2","Ardea..insignis_EMmeanByTSS_mergedData_mergedRun_GLM","mergedData","mergedRun","GLM","TSS","EMmean","ROC",636.5,78.676,84.605,0.873,NA,NA
+"3","Ardea..insignis_EMcaByTSS_mergedData_mergedRun_GLM","mergedData","mergedRun","GLM","TSS","EMca","TSS",495,78.676,84.132,0.628,NA,NA
+"4","Ardea..insignis_EMcaByTSS_mergedData_mergedRun_GLM","mergedData","mergedRun","GLM","TSS","EMca","ROC",500,78.676,84.132,0.814,NA,NA
+"5","Ardea..insignis_EMmeanByTSS_mergedData_mergedRun_GBM","mergedData","mergedRun","GBM","TSS","EMmean","TSS",377,94.853,79.338,0.742,NA,NA
+"6","Ardea..insignis_EMmeanByTSS_mergedData_mergedRun_GBM","mergedData","mergedRun","GBM","TSS","EMmean","ROC",378.5,94.853,79.541,0.943,NA,NA
+"7","Ardea..insignis_EMcaByTSS_mergedData_mergedRun_GBM","mergedData","mergedRun","GBM","TSS","EMca","TSS",247.5,98.529,76.57,0.751,NA,NA
+"8","Ardea..insignis_EMcaByTSS_mergedData_mergedRun_GBM","mergedData","mergedRun","GBM","TSS","EMca","ROC",250,98.529,76.57,0.894,NA,NA
+"9","Ardea..insignis_EMmeanByTSS_mergedData_mergedRun_ANN","mergedData","mergedRun","ANN","TSS","EMmean","TSS",509,88.235,73.666,0.619,NA,NA
+"10","Ardea..insignis_EMmeanByTSS_mergedData_mergedRun_ANN","mergedData","mergedRun","ANN","TSS","EMmean","ROC",522.5,87.5,74.477,0.883,NA,NA
+"11","Ardea..insignis_EMcaByTSS_mergedData_mergedRun_ANN","mergedData","mergedRun","ANN","TSS","EMca","TSS",495,88.235,73.666,0.619,NA,NA
+"12","Ardea..insignis_EMcaByTSS_mergedData_mergedRun_ANN","mergedData","mergedRun","ANN","TSS","EMca","ROC",500,88.235,73.666,0.81,NA,NA
